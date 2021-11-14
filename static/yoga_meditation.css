@@ -15,7 +15,7 @@
     display: flex;
     flex-direction: column;
     font-size: 65px;
-    background: center/cover no-repeat url("/static/yoga.jpg") ;
+    background: center/cover no-repeat url("https://i.ibb.co/NWG2k8n/yoga.jpg") ;
     height: 425px;
 }
 

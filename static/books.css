@@ -18,7 +18,7 @@
     display: flex;
     flex-direction: column;
     font-size: 65px;
-    background: center/cover no-repeat url("/static/books\ and\ recommendations.jpg") ;
+    background: center/cover no-repeat url("https://i.ibb.co/rHN1VC1/books-and-recommendations.jpg") ;
     height: 425px;
 }
 
